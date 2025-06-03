@@ -24,7 +24,7 @@ Asegúrate de tener instalada la aplicación [GitHub Desktop](https://desktop.gi
 
 ## 🌿 Paso 2: Crear una Nueva Rama
 
-1. Asegúrate de que el repositorio `tfg` esté abierto en GitHub Desktop.
+1. Asegúrate de que el repositorio `Game` esté abierto en GitHub Desktop.
 2. En la parte superior, haz clic en el desplegable de ramas (probablemente dice `main`).
 3. Selecciona **"New Branch"**.
 4. Escribe tu nombre como nombre de la rama (por ejemplo: `juan-perez`).
